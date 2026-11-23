@@ -17,9 +17,9 @@ import { IoBedOutline } from "react-icons/io5";
 
 export default function Digitalmarketing() {
   const highlights = [
-    "Search and Google visibility",
-    "Relevant guest campaigns",
-    "Better booking conversion",
+    "Content kept current",
+    "Booking journeys checked",
+    "Ongoing website care",
   ];
 
   return (
@@ -34,18 +34,18 @@ export default function Digitalmarketing() {
               <div className="flex items-center gap-3.5">
                 <span className="h-[2px] w-8 bg-[#78FF00] inline-block"></span>
                 <span className="text-[13px] sm:text-[14px] font-bold tracking-[0.2em] uppercase text-[#78FF00]">
-                  SERVICE 04 / DIGITAL MARKETING & REVENUE GROWTH
+                  SERVICE 03 / ONGOING DIGITAL MANAGEMENT
                 </span>
               </div>
 
               <h1 className="text-[42px] sm:text-[46px] md:text-[44px] lg:text-[72px] xl:text-[86px] font-normal leading-[1.03] tracking-tight">
-                <span className="block text-white">More people</span>
-                <span className="block text-white">finding you.</span>
-                <span className="block text-[#78FF00]">More reasons to book.</span>
+                <span className="block text-white">Your digital</span>
+                <span className="block text-white">presence.</span>
+                <span className="block text-[#78FF00]">Taken care of.</span>
               </h1>
 
               <p className="text-[16px] sm:text-[18px] lg:text-[20px] xl:text-[22px] text-white/90 leading-[1.6] max-w-[580px] font-normal">
-                Your next guests are already searching for places to stay. We help your property get discovered, stand out online and turn more interest into booking opportunities.
+                Website updates, booking-link checks, content changes and technical upkeep. We manage the recurring digital work for your property, so you can focus on delivering great guest experiences.
               </p>
 
               <div className="flex flex-wrap items-center gap-4 lg:gap-5 pt-2">

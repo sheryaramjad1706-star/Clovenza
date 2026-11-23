@@ -17,9 +17,9 @@ import { IoBedOutline } from "react-icons/io5";
 
 export default function Digitalmarketing() {
   const highlights = [
-    "Search and Google visibility",
-    "Relevant guest campaigns",
-    "Better booking conversion",
+    "Accurate property listings",
+    "Rates and availability care",
+    "Ongoing channel support",
   ];
 
   return (
@@ -34,18 +34,19 @@ export default function Digitalmarketing() {
               <div className="flex items-center gap-3.5">
                 <span className="h-[2px] w-8 bg-[#78FF00] inline-block"></span>
                 <span className="text-[13px] sm:text-[14px] font-bold tracking-[0.2em] uppercase text-[#78FF00]">
-                  SERVICE 04 / DIGITAL MARKETING & REVENUE GROWTH
+                  SERVICE 02 / OTA & CHANNEL MANAGEMENT
+
                 </span>
               </div>
 
               <h1 className="text-[42px] sm:text-[46px] md:text-[44px] lg:text-[72px] xl:text-[86px] font-normal leading-[1.03] tracking-tight">
-                <span className="block text-white">More people</span>
-                <span className="block text-white">finding you.</span>
-                <span className="block text-[#78FF00]">More reasons to book.</span>
+                <span className="block text-white">More bookings.</span>
+                <span className="block text-white">Less platform</span>
+                <span className="block text-[#78FF00]">work.</span>
               </h1>
 
               <p className="text-[16px] sm:text-[18px] lg:text-[20px] xl:text-[22px] text-white/90 leading-[1.6] max-w-[580px] font-normal">
-                Your next guests are already searching for places to stay. We help your property get discovered, stand out online and turn more interest into booking opportunities.
+                We manage supported OTA listings, rates, availability and promotions for your accommodation business—so you can spend less time juggling booking platforms and more time with your guests.
               </p>
 
               <div className="flex flex-wrap items-center gap-4 lg:gap-5 pt-2">
@@ -53,7 +54,7 @@ export default function Digitalmarketing() {
                   href="#contact"
                   className="inline-block bg-[#78FF00] hover:bg-[#6be600] text-[#111827] font-bold text-[14px] sm:text-[16px] px-5 sm:px-7 lg:px-9 py-3.5 lg:py-4 rounded-xl shadow-lg transform transition-all duration-300 hover:-translate-y-1.5 hover:shadow-2xl active:translate-y-0"
                 >
-                  Discuss My Growth
+                  Discuss My OTAs
                 </Link>
 
                 <Link

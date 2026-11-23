@@ -8,19 +8,19 @@ export default function Faqs() {
 
   const faqItems = [
     {
-      question: "Do I need paid advertising?",
+      question: "Which OTAs do you support?",
       answer:
-        "Not always. Many properties see strong progress by first improving their Google presence, website clarity and seasonal offers. If paid campaigns make sense for your location and occupancy goals, we will recommend a practical approach tailored to your budget.",
+        "Support may include Booking.com, Airbnb, Expedia, Agoda and other relevant channels, subject to access and integrations.",
     },
     {
-      question: "Will you manage marketing for me?",
+      question: "Can you use my existing channel manager?",
       answer:
-        "Yes. Once we agree on the scope, we handle the ongoing updates, search visibility improvements, content refinements and campaign tasks so you can focus on looking after your guests.",
+        "We can review its compatibility and coordinate supported connections.",
     },
     {
-      question: "Can you guarantee rankings or bookings?",
+      question: "Who controls the prices?",
       answer:
-        "No honest partner can guarantee specific search positions or exact booking numbers, because traveler demand and search algorithms depend on many factors. What we do guarantee is structured, hospitality-focused work designed to improve your visibility and give guests a clearer path to book direct.",
+        "You approve the pricing rules and service scope. We work within the agreed authority.",
     },
   ];
 

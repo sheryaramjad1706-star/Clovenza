@@ -9,21 +9,21 @@ export default function ClovenzaDifference() {
   const steps = [
     {
       number: "01",
-      title: "We learn about your guests",
+      title: "We review your channels",
       description:
-        "Understand your location, audience and booking goals.",
+        "Understand your accounts, rate rules and property setup.",
     },
     {
       number: "02",
-      title: "We manage the marketing",
+      title: "We organise and improve",
       description:
-        "Handle agreed content, search and campaign tasks.",
+        "Agree on listing, pricing and availability responsibilities.",
     },
     {
       number: "03",
-      title: "We keep improving",
+      title: "We stay involved",
       description:
-        "Review performance and recommend the next sensible steps.",
+        "Provide ongoing updates and optimisation support.",
     },
   ];
 
@@ -61,13 +61,12 @@ export default function ClovenzaDifference() {
 
             {/* Main Heading */}
             <h2 className="text-[44px] sm:text-[54px] lg:text-[64px] font-normal text-[#1E2532] leading-[1.08] tracking-tight">
-              We don’t just launch campaigns. We keep improving.
+              We don’t just set up listings. We keep managing them.
             </h2>
 
             {/* Subtitle */}
             <p className="text-[17px] sm:text-[19px] text-[#64748B] leading-[1.65] max-w-[580px] font-normal">
-              We understand your property, manage the agreed marketing work and
-              refine it based on the opportunities and results available.
+              You get a reliable partner to help maintain your online distribution and coordinate the recurring work across supported channels.
             </p>
 
             {/* CTA Button (Moves Up on Hover) */}

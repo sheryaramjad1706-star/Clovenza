@@ -73,9 +73,9 @@ export default function SeeHowItWorks() {
   };
 
   const leftHighlights = [
-    "Help the right travelers find you",
-    "Give guests reasons to choose you",
-    "Make their next step clear",
+    "Clear property information across channels",
+    "Rates and availability updates",
+    "Offers and seasonal content managed",
   ];
 
   const currentTab = tabsData[activeTab];
@@ -114,12 +114,12 @@ export default function SeeHowItWorks() {
 
             {/* Main Heading */}
             <h2 className="text-[42px] sm:text-[52px] lg:text-[62px] font-normal text-[#1E2532] leading-[1.08] tracking-tight">
-              From the first search to the booking button.
+              One property. Many booking channels. Less work for you.
             </h2>
 
             {/* Subtitle */}
             <p className="text-[17px] sm:text-[19px] text-[#64748B] leading-[1.65] font-normal">
-              Explore the three moments we improve in the guest journey.
+              Explore the everyday areas our team helps manage.
             </p>
 
             {/* Checklist */}

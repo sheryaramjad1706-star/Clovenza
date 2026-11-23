@@ -1,4 +1,4 @@
-import Hero from "../../src\\components/Website and direct booking page/Hero";
+import Hero from "../../src//components/Website and direct booking page/Hero";
 import Thechallenge from "../../src//components/Website and direct booking page/Thechallenge"
 import Whatwedo from "../../src//components/Website and direct booking page/Whatwedo"
 import Seehowitworks from "../../src//components/Website and direct booking page/Seehowitworks"
